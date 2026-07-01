@@ -1,4 +1,4 @@
-## Hi,I'm Srishti 
+## Hi,I'm Srishti ✨
 Computer Science Student
 Passionate about backend development, cloud computing, and building real-world software solutions. I enjoy solving problems through code, exploring new technologies, and continuously improving my skills in Java, Data Structures & Algorithms, System Design, DevOps, and AI/ML. I'm always excited to learn, collaborate, and contribute to impactful projects.
 
