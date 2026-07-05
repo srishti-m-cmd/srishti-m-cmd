@@ -1,40 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:7B2FF7,100:4C1D95&height=200&section=header&text=Srishti%20K%20R&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20Full%20Stack&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:7B2FF7,100:4C1D95&height=220&section=header&text=Srishti%20K%20R&fontSize=55&fontColor=E9D5FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=2600&pause=1200&color=B794F4&center=true&vCenter=true&width=800&height=40&lines=building+scalable+systems%2C+one+commit+at+a+time;currently+deep+in+AI+%2F+ML+%2B+cloud;9.44+CGPA+%C2%B7+always+shipping+something;open+to+internships+%26+collabs&background=00000000" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Software+Systems;Exploring+AI+%2F+ML+%26+Emerging+Tech;Full+Stack+Developer+%7C+Cloud+Enthusiast;Open+Source+%7C+Lifelong+Learner&font=Fira+Code&center=true&width=650&height=50&color=B794F4&vCenter=true&size=24&pause=1500&background=00000000" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CGPA-9.44%2F10-0D1117?style=flat-square&labelColor=0D1117&color=7B2FF7"/>
-<img src="https://img.shields.io/badge/B.E.-Computer%20Science-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD"/>
-<img src="https://img.shields.io/badge/📍-Hassan%2C%20Karnataka-0D1117?style=flat-square&labelColor=0D1117&color=4C1D95"/>
+<img src="https://img.shields.io/badge/CGPA-9.44%2F10-7B2FF7?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/B.E.-Computer%20Science-6A0DAD?style=for-the-badge&logo=studyverse&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Location-Hassan%2C%20Karnataka%2C%20India-4C1D95?style=for-the-badge&logo=mapbox&logoColor=white&labelColor=1a1a2e"/>
 
 <br/><br/>
 
 <a href="https://srishti-k-ramesh-p6aj0hs.gamma.site/">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/srishti-k-ramesh-2b553a34b">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:srishtirameshk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/srishti-m-cmd">
-  <img src="https://img.shields.io/badge/GitHub-5B21B6?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=srishti-m-cmd&style=flat-square&color=7B2FF7&labelColor=0D1117" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/srishti-m-cmd?style=flat-square&color=7B2FF7&labelColor=0D1117&logo=github&logoColor=white" alt="followers"/>
-<img src="https://img.shields.io/github/stars/srishti-m-cmd?style=flat-square&color=7B2FF7&labelColor=0D1117&logo=github&logoColor=white" alt="stars"/>
-
+<img src="https://komarev.com/ghpvc/?username=srishti-m-cmd&style=for-the-badge&color=7B2FF7&labelColor=1a1a2e" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/srishti-m-cmd?style=for-the-badge&color=7B2FF7&labelColor=1a1a2e&logo=github&logoColor=white" alt="followers"/>
+<img src="https://img.shields.io/github/stars/srishti-m-cmd?style=for-the-badge&color=7B2FF7&labelColor=1a1a2e&logo=github&logoColor=white" alt="stars"/>
 
 </div>
 
 <br/>
+
 
 ## 🟣 About Me
 
