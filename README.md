@@ -58,7 +58,7 @@ class SoftwareEngineer:
 </td>
 <td width="35%" valign="top">
 
-<img width="100%" src="https://raw.githubusercontent.com/OhanaFukusumi/OhanaFukusumi/main/img/pixel_computer.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 </td>
 </tr>
