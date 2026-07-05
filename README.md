@@ -252,12 +252,12 @@ Undergoing structured mentorship in software development, problem-solving, and s
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srishti-m-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=7B2FF7&text_color=E9D5FF"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti-m-cmd&theme=radical&hide_border=true&background=0D1117&stroke=7B2FF7&ring=B794F4&fire=B794F4&currStreakLabel=E9D5FF"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=srishti-m-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=7B2FF7&text_color=E9D5FF"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=srishti-m-cmd&theme=radical&hide_border=true&background=0D1117&stroke=7B2FF7&ring=B794F4&fire=B794F4&currStreakLabel=E9D5FF"/>
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishti-m-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=E9D5FF"/>
+<img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=srishti-m-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=E9D5FF"/>
 
 </div>
 
@@ -273,11 +273,11 @@ Undergoing structured mentorship in software development, problem-solving, and s
 
 ---
 
-## 🟣 Contribution Activity
+## 🟣 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishti-m-cmd&theme=redical&bg_color=0D1117&color=B794F4&line=7B2FF7&point=E9D5FF&hide_border=true"/>
+<img src="https://github-trophies.vercel.app/?username=srishti-m-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 
 </div>
 
