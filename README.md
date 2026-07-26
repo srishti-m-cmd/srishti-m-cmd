@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/srishti_readme_hero(3).png" alt="Srishti K R Profile Card" width="900"/>
+  <img src="assets/srishti_readme_hero (3).png" alt="Srishti K R Terminal Profile Card" width="900"/>
 </div>
 ## 🟣 About Me
 
