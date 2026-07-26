@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="660" viewBox="0 0 980 660" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
 <style>
     .art  { fill:#8250df; font-size:6.2px; white-space:pre; }
-    .key  { fill:#6a0dad; font-size:13px; font-weight:700; }
+    .key  { fill:#1a7f37; font-size:13px; font-weight:700; }
     .val  { fill:#1f2328; font-size:13px; }
-    .acc  { fill:#7b2ff7; font-size:13px; }
-    .wrn  { fill:#4c1d95; font-size:13px; }
+    .acc  { fill:#0969da; font-size:13px; }
+    .wrn  { fill:#9a6700; font-size:13px; }
     .mut  { fill:#59636e; font-size:12px; }
-    .hdr  { fill:#7b2ff7; font-size:15px; font-weight:700; }
+    .hdr  { fill:#0969da; font-size:15px; font-weight:700; }
     .sec  { fill:#59636e; font-size:12px; letter-spacing:1px; }
     .ttl  { fill:#59636e; font-size:12px; }
     .row  { opacity:1; animation: fade .35s ease backwards; }
     @keyframes fade { from { opacity:0; transform:translateY(3px); }
                        to   { opacity:1; transform:translateY(0); } }
-    .cur  { fill:#6a0dad; animation: blink 1s steps(1) infinite; }
+    .cur  { fill:#1a7f37; animation: blink 1s steps(1) infinite; }
     @keyframes blink { 50% { opacity:0; } }
     .artline { opacity:1; animation: fade .3s ease backwards; }
     </style>
@@ -135,5 +135,5 @@
 <text x="418" y="525.0" class="key row" style="animation-delay:1.96s">Mail</text>
 <text x="510" y="525.0" class="acc row" style="animation-delay:1.96s">srishtirameshk@gmail.com</text>
 <text x="30" y="636" class="row" style="animation-delay:2.13s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8"> AI/ML Enthusiast | Full Stack Developer </tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="636" class="mut" text-anchor="end">last updated 26 Jul 2026, 23:08 IST</text>
+<text x="946" y="636" class="mut" text-anchor="end">last updated 26 Jul 2026, 23:16 IST</text>
 </svg>
