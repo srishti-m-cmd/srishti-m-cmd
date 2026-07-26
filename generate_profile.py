@@ -63,15 +63,15 @@ INFO = [
 THEMES = {
     "dark": {
         "bg": "#0d1117", "panel": "#161b22", "border": "#30363d",
-        "text": "#c9d1d9", "muted": "#8b949e", "key": "#a882ff",
-        "accent": "#7f5af0", "warn": "#c9a4ff", "art": "#bc8cff",
-        "prompt": "#a882ff", "dot1": "#ff5f56", "dot2": "#ffbd2e", "dot3": "#27c93f",
+        "text": "#c9d1d9", "muted": "#8b949e", "key": "#3fb950",
+        "accent": "#58a6ff", "warn": "#d29922", "art": "#bc8cff",
+        "prompt": "#3fb950", "dot1": "#ff5f56", "dot2": "#ffbd2e", "dot3": "#27c93f",
     },
     "light": {
         "bg": "#ffffff", "panel": "#f6f8fa", "border": "#d0d7de",
-        "text": "#1f2328", "muted": "#59636e", "key": "#6a0dad",
-        "accent": "#7b2ff7", "warn": "#4c1d95", "art": "#8250df",
-        "prompt": "#6a0dad", "dot1": "#ff5f56", "dot2": "#ffbd2e", "dot3": "#27c93f",
+        "text": "#1f2328", "muted": "#59636e", "key": "#1a7f37",
+        "accent": "#0969da", "warn": "#9a6700", "art": "#8250df",
+        "prompt": "#1a7f37", "dot1": "#ff5f56", "dot2": "#ffbd2e", "dot3": "#27c93f",
     },
 }
 
