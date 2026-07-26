@@ -80,6 +80,11 @@
 <text x="30" y="441.5" class="art artline" xml:space="preserve" textLength="390.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.79s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@%@@@@@@@@@@@@@@@@@@@%%@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 <text x="30" y="448.2" class="art artline" xml:space="preserve" textLength="390.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.80s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@%%%@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 <text x="30" y="454.9" class="art artline" xml:space="preserve" textLength="390.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.81s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="461.6" class="art artline" xml:space="preserve" textLength="390.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.82s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="468.4" class="art artline" xml:space="preserve" textLength="390.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.83s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="475.1" class="art artline" xml:space="preserve" textLength="390.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.85s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="481.8" class="art artline" xml:space="preserve" textLength="390.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.86s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="488.5" class="art artline" xml:space="preserve" textLength="390.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.87s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 <text x="418" y="92.0" class="hdr row" style="animation-delay:0.35s">Srishti K R</text>
 <line x1="418" y1="101.5" x2="940" y2="101.5" stroke="#d0d7de" class="row" style="animation-delay:0.42s"/>
 <text x="418" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
@@ -123,5 +128,5 @@
 <text x="418" y="525.0" class="key row" style="animation-delay:1.96s">Mail</text>
 <text x="510" y="525.0" class="acc row" style="animation-delay:1.96s">srishtirameshk@gmail.com</text>
 <text x="30" y="636" class="row" style="animation-delay:2.13s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8"> AI/ML Enthusiast | Full Stack Developer </tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="636" class="mut" text-anchor="end">last updated 26 Jul 2026, 16:51 IST</text>
+<text x="946" y="636" class="mut" text-anchor="end">last updated 26 Jul 2026, 23:04 IST</text>
 </svg>
