@@ -7,9 +7,8 @@
     src="https://raw.githubusercontent.com/srishti-m-cmd/srishti-m-cmd/main/dark.svg">
 </picture>
 </div>
-
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=srishti-m-cmd&background=0D0A1A&border=30363D&stroke=A882FF&ring=A882FF&fire=A882FF&currStreakNum=E1DCF5&sideNums=E1DCF5&currStreakLabel=A882FF&sideLabels=8B949E&dates=8B949E&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=srishti-m-cmd&theme=tokyonight&hide_border=true" />
 </div>
 ## 🟣 About Me
 
