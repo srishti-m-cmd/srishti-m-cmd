@@ -144,7 +144,7 @@ def render(theme_name, colors, stats, ist_now):
     .acc  {{ fill:{colors['accent']}; font-size:13px; }}
     .wrn  {{ fill:{colors['warn']}; font-size:13px; }}
     .mut  {{ fill:{colors['muted']}; font-size:12px; }}
-    .hdr  {{ fill:{colors['accent']}; font-size:15px; font-weight:700; }}
+    .hdr  { fill:{colors['accent']}; font-size:22px; font-weight:700; }}
     .sec  {{ fill:{colors['muted']}; font-size:12px; letter-spacing:1px; }}
     .ttl  {{ fill:{colors['muted']}; font-size:12px; }}
     .row  {{ opacity:1; animation: fade .35s ease backwards; }}
