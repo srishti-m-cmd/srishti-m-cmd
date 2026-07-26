@@ -202,7 +202,7 @@ def render(theme_name, colors, stats, ist_now):
         d = f'style="animation-delay:{delay:.2f}s"'
         if label == "__header__":
             parts.append(f'<text x="{INFO_X}" y="{y:.1f}" class="hdr row" {d}>{escape(value)}</text>')
-            y += INFO_LH
+            y += INFO_LH+8
         elif label == "__rule__":
             parts.append(
                 f'<line x1="{INFO_X}" y1="{y-8:.1f}" x2="{W-40}" y2="{y-8:.1f}" '
