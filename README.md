@@ -6,10 +6,7 @@
     alt="Srishti"
     src="https://raw.githubusercontent.com/srishti-m-cmd/srishti-m-cmd/main/dark.svg">
 </picture>
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=srishti-m-cmd&theme=tokyonight&hide_border=true" />
-</div>
+
 ## 🟣 About Me
 
 <table>
