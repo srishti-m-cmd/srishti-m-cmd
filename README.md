@@ -85,6 +85,7 @@ I'm actively deepening my expertise in **Data Structures & Algorithms, cloud inf
 ## 🟣 Featured Projects
 
 <details>
+  
 <summary><b>🔐 Blockchain Based Certification Verification System</b></summary>
 <br/>
 
@@ -100,6 +101,22 @@ A decentralized system to issue and verify academic certificates, eliminating fr
 | **Repository** | [View Repository](https://github.com/srishti-m-cmd/Blockchain-based-Certificate-Authentication-System) |
 
 Engineered smart contracts to automate the issuance and verification pipeline, removing manual bottlenecks. Built a frontend dashboard enabling institutions and students to issue and verify credentials instantly, with all records anchored on-chain for tamper-proof integrity.
+
+</details>
+<details>
+<summary><b>🤖 RAG-Based Document Q&A System</b></summary>
+<br/>
+
+A collaborative Retrieval-Augmented Generation (RAG) system for processing documents and providing context-aware question answering.
+
+| Attribute | Details |
+|---|---|
+| **Type** | Team Project (7–8 Members) |
+| **Focus** | RAG, Document Processing, Data Loading |
+| **My Contribution** | Data Loading module, document upload & extraction, data preparation |
+| **Repository** | [View Repository](https://github.com/BlackCat-Sec/TrainingProject-01) |
+
+Contributed 6 commits to the team repository and worked on the data-loading stage of the RAG pipeline.
 
 </details>
 
