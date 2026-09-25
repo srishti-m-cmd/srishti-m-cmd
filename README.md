@@ -114,7 +114,7 @@ A collaborative Retrieval-Augmented Generation (RAG) system for processing docum
 | **Type** | Team Project (7–8 Members) |
 | **Focus** | RAG, Document Processing, Data Loading |
 | **My Contribution** | Data Loading module, document upload & extraction, data preparation |
-| **Repository** | [View Repository](https://github.com/BlackCat-Sec/TrainingProject-01) |
+| **Repository** | [View Repository](https://github.com/BlackCat-Sec/TrianingProject-01.git) |
 
 Contributed 6 commits to the team repository and worked on the data-loading stage of the RAG pipeline.
 
